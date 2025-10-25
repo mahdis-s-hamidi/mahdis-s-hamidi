@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋 I'm Mahdis  
 
-<!--
-**mahdis-s-hamidi/mahdis-s-hamidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc in Genetics | Interested in Bioinformatics, Molecular Biology, and microRNA research  
+💻 Skills: R, Linux, Cytoscape, Variant Calling, Omics Data Analysis  
+🔬 Experience: Master's thesis on human genetic diseases (endometriosis) with focus on bioinformatics and omics data  
+🌱 Currently exploring: PhD opportunities in Europe, focusing on molecular biology and computational genomics  
 
-Here are some ideas to get you started:
+## 🔗 Connect with me
+ResearchGate: https://www.researchgate.net/profile/Mahdis-Saffar-Hamidi
+GitHub:
+https://github.com/mahdis-s-hamidi
+LinkedIn:
+https://www.linkedin.com/in/mahdis-s-hamidi
+Email: 
+mahdiisshamidi79@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+✨ On this GitHub, I share scripts, workflows, and mini-projects related to bioinformatics and genetics.
